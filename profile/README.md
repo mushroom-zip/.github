@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-### 🌈 Introduce!
+### Introduce!
 인공지능 경진대회 참여 기록을 남기고 있습니다.
 
 ### 🧑🏻‍💻 팀원 소개
